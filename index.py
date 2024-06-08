@@ -20,7 +20,7 @@ import plotly.graph_objs as go
 #from query import *
 
 st.set_page_config(page_title="Dashboard",page_icon="🌍",layout="wide")
-st.header("PROCESAMIENTO ANALÍTICO Y ESTADISTICO,  FRANK 2024")
+st.header("PROCESAMIENTO ANALÍTICO Y ESTADISTICO,  Juan 2024")
 
 #all graphs we use custom css not streamlit 
 theme_plotly = None 
